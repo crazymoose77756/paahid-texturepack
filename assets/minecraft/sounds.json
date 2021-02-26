@@ -1,0 +1,23 @@
+{
+    "music.game": {
+	    "category": "music",
+	    "sounds": [
+		    {
+			    "name": "music/game/wethands",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/dryhands",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/miceonvenus",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/sweden",
+			    "stream": true
+		    }
+	    ]
+    }
+}
